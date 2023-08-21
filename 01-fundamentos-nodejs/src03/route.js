@@ -1,4 +1,4 @@
-import { Database } from './01-fundamentos-nodejs/src03/database.js';
+import { Database } from './database.js';
 import {randomUUID} from 'node:crypto'
 
 

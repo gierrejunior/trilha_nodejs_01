@@ -1,6 +1,6 @@
 import http from 'node:http';
 import { json } from './middlewares/json.js'; 
-import { routes } from '../../route.js';
+import { routes } from './route.js';
 
 /*
 FORMAS DO FRONTEND ENVIAR SOLICITAÇÕES:
